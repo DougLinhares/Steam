@@ -1,0 +1,59 @@
+body {
+  text-align: center;
+  margin: 0px;
+  background-image: url(../Img/img1.jpg);
+  background-size: cover;
+}
+
+.secao-inicial {
+  background-color: #063970;
+  color: white;
+  font-size: 25px;
+  padding: 1px;
+}
+
+h1 {
+  color: white;
+}
+
+.secao-meio {
+  padding-top: 60px;
+}
+
+.secao-meio p {
+  font-size: 20px;
+  width: 700px;
+  margin: auto;
+  text-align: justify;
+  color: white;
+  line-height: 32px;
+  padding-top: 20px;
+}
+.secao-meio img {
+  width: 700px;
+}
+
+.secao-caixa {
+  border: 2px solid white;
+  width: 150px;
+  height: 100px;
+  margin: 65px auto;
+}
+
+.secao-caixa p {
+  color: white;
+  font-size: 25px;
+}
+
+.secao-caixa a {
+  color: black;
+  text-decoration: none;
+  background-color: rgb(50, 167, 61);
+  padding: 5px;
+  border-radius: 20px;
+}
+
+.secao-caixa a,
+.secao-caixa p {
+  font-family: Tahoma;
+}
